@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    outline: 0ch;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(216, 238, 238, 0.932);
+    color: rgba(58, 92, 92, 0.932)
+}
